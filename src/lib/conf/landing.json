@@ -1,5 +1,5 @@
 {
-  "headerPhoto": "prev/users/template1/hero.jpg",
+  "headerPhoto": "prod/users/ea7225d5-7142-4953-a75e-aafcb0c878af/53ab742c-5be0-4b41-92e0-14b05bc69d01",
   "sections": [
     {
       "header": "town",
@@ -7,23 +7,47 @@
       "padding": "10vw",
       "blocks": [
         {
+          "id": "troubled-pudina",
           "kind": "text",
           "content": {
-            "ref": "landing_town_html",
-            "headerFontSize": "2.5rem",
-            "textFontSize": "1.3rem"
+            "ref": "dead-milfoil",
+            "minHeight": "",
+            "textFontSize": "1.2rem",
+            "headerFontSize": "1.7rem"
+          }
+        },
+        {
+          "id": "hollow-wheat",
+          "kind": "photo",
+          "content": {
+            "photoPath": "prod/users/ea7225d5-7142-4953-a75e-aafcb0c878af/53901b6e-345d-4c05-99b4-7c4a9f6f6fdb",
+            "alt": "excess-california-walnut",
+            "height": "30vh",
+            "link": "",
+            "attribution": ""
           }
         },
         {
           "kind": "photo",
           "content": {
-            "photoPath": "prev/users/template1/church_koserow.jpg",
-            "alt": "town_church",
-            "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:Koserowkirche.jpg\">Unukorno</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
-            "link": "http://www.koserow.de",
-            "external": true,
-            "height": "40vh"
-          }
+            "photoPath": "prod/users/ea7225d5-7142-4953-a75e-aafcb0c878af/a36cc89b-df0a-4ca8-99b7-da7a1ea14214",
+            "alt": "decisive-snakeberry-photo-alt",
+            "height": "",
+            "link": "",
+            "attribution": ""
+          },
+          "id": "strict-arfaj"
+        },
+        {
+          "kind": "photo",
+          "content": {
+            "photoPath": "prod/users/ea7225d5-7142-4953-a75e-aafcb0c878af/3782cf17-c445-4394-9a2c-62b94b490308",
+            "alt": "social-black-ash-photo-alt",
+            "height": "",
+            "link": "",
+            "attribution": ""
+          },
+          "id": "foreign-valley-oak"
         }
       ]
     },
@@ -33,52 +57,12 @@
       "padding": "0",
       "blocks": [
         {
+          "id": "yellow-mesquite",
           "kind": "weather",
           "content": {
-            "header1": "koserow",
-            "header2": "weather",
-            "location": "54d0514d00/koserow/"
-          }
-        }
-      ]
-    },
-    {
-      "header": "accomodations",
-      "columnCount": 2,
-      "blocks": [
-        {
-          "kind": "text",
-          "content": {
-            "ref": "landing_apartments_html",
-            "headerFontSize": "1.5rem",
-            "textFontSize": "1rem"
-          }
-        },
-        {
-          "kind": "photo",
-          "content": {
-            "photoPath": "prev/users/template1/building_1.jpg",
-            "alt": "apartment_1_alt",
-            "link": "/accomodations/acco_cornflower",
-            "height": "30vh"
-          }
-        },
-        {
-          "kind": "photo",
-          "content": {
-            "photoPath": "prev/users/template1/building_2.jpg",
-            "alt": "apartment_2_alt",
-            "link": "/accomodations/acco_sunflower",
-            "height": "40vh"
-          }
-        },
-        {
-          "kind": "photo",
-          "content": {
-            "photoPath": "prev/users/template1/building_3.jpg",
-            "alt": "apartment_3_alt",
-            "link": "/accomodations/acco_rosebush",
-            "height": "40vh"
+            "header1": "weatherHeader1",
+            "header2": "weatherHeader2",
+            "location": "54d0813d91/zinnowitz/"
           }
         }
       ]
@@ -89,42 +73,30 @@
       "padding": "0",
       "blocks": [
         {
+          "id": "korean-red-osier",
           "kind": "photo-gallery",
           "content": {
             "photos": [
               {
-                "photoPath": "prev/users/template1/beach_1.jpg",
-                "alt": "beach_alt"
+                "photoPath": "prod/users/ea7225d5-7142-4953-a75e-aafcb0c878af/a36cc89b-df0a-4ca8-99b7-da7a1ea14214"
               },
               {
-                "photoPath": "prev/users/template1/beach_2.jpg",
-                "alt": "beach_alt"
+                "photoPath": "prod/users/ea7225d5-7142-4953-a75e-aafcb0c878af/46be8a9b-0694-4c9a-bcbf-a445b6f7ae56"
               },
               {
-                "photoPath": "prev/users/template1/beach_3.jpg",
-                "alt": "beach_alt"
+                "photoPath": "prod/users/ea7225d5-7142-4953-a75e-aafcb0c878af/aa24dacb-49f4-4d2c-85af-d9e2c5ecc827"
               },
               {
-                "photoPath": "prev/users/template1/beach_4.jpg",
-                "alt": "beach_alt"
+                "photoPath": "prod/users/ea7225d5-7142-4953-a75e-aafcb0c878af/53901b6e-345d-4c05-99b4-7c4a9f6f6fdb"
               },
               {
-                "photoPath": "prev/users/template1/beach_5.jpg",
-                "alt": "beach_alt"
+                "photoPath": "prod/users/ea7225d5-7142-4953-a75e-aafcb0c878af/3782cf17-c445-4394-9a2c-62b94b490308"
               },
               {
-                "photoPath": "prev/users/template1/beach_6.jpg",
-                "alt": "beach_alt"
-              },
-              {
-                "photoPath": "prev/users/template1/beach_6.jpg",
-                "alt": "beach_alt"
-              },
-              {
-                "photoPath": "prev/users/template1/beach_6.jpg",
-                "alt": "beach_alt"
-              }              
-            ]
+                "photoPath": "prod/users/ea7225d5-7142-4953-a75e-aafcb0c878af/8df63ae8-de3b-4f01-9b11-3a66e2b5a45f"
+              }
+            ],
+            "gridPhotoWidth": ""
           }
         }
       ]
@@ -135,12 +107,13 @@
       "padding": "10vw",
       "blocks": [
         {
+          "id": "rare-true-cinnamon",
           "kind": "leaflet-map",
           "content": {
-            "address": "Achterstr. 3, 17459 Koserow",
-            "lat": 54.0483609,
-            "long": 13.9965374,
-            "zoom": 16
+            "address": "Alte Strandstraße 12, Zinnowitz",
+            "lat": "54.071954081170034",
+            "long": "13.903937054713893",
+            "zoom": 14
           }
         }
       ]
