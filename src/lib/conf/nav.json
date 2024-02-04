@@ -6,37 +6,29 @@
       "external": false
     },
     {
+      "key": "dependent-arizona-sycamore",
+      "path": "https://zinnowitz.de",
+      "external": true,
+      "sub": false
+    },
+    {
       "key": "accomodations",
       "path": "/accomodations",
       "external": false
     },
     {
-      "key": "accoCornflower",
-      "path": "/accomodations/acco_cornflower",
-      "sub": true,
-      "external": false
+      "key": "bd39887b-3797-44ed-960b-88545f33206f",
+      "path": "/accomodations/bd39887b-3797-44ed-960b-88545f33206f",
+      "acco": "bd39887b-3797-44ed-960b-88545f33206f",
+      "external": false,
+      "sub": true
     },
     {
-      "key": "accoSunflower",
-      "path": "/accomodations/acco_sunflower",
-      "sub": true,
-      "external": false
-    },
-    {
-      "key": "accoRosebush",
-      "path": "/accomodations/acco_rosebush",
-      "sub": true,
-      "external": false
-    },
-    {
-      "key": "koserow",
-      "path": "http://www.koserower.de",
-      "external": true
-    },
-    {
-      "key": "usedom",
-      "path": "http://inselusedom.de",
-      "external": true
+      "key": "c9375a05-4001-47c6-88f9-6d83840a88c1",
+      "path": "/accomodations/c9375a05-4001-47c6-88f9-6d83840a88c1",
+      "acco": "c9375a05-4001-47c6-88f9-6d83840a88c1",
+      "external": false,
+      "sub": true
     }
   ],
   "footer": [
