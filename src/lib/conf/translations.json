@@ -87,7 +87,9 @@
         "c9375a05-4001-47c6-88f9-6d83840a88c1": "Ferienhaus 1",
         "bd39887b-3797-44ed-960b-88545f33206f": "Ferienhaus 2",
         "dead-milfoil": "<h3>Idyllic Holiday Destination - Zinnowitz</h3>\n<p>Enjoy the Baltic Sea gem Zinnowitz with its picturesque coastal landscape, sunny sandy beach, and breathtaking ocean. Discover charming little boutiques, local craftsmanship, and regional delicacies while shopping and relax on the beach. Experience culture, art, and the beauty of nature in this authentic holiday paradise.</p>",
-        "dependent-arizona-sycamore": "Zinnowitz"
+        "dependent-arizona-sycamore": "Zinnowitz",
+        "correct-english-oak": "<p>Even this text should behave simiraly.</p>",
+        "orthodox-mossycup-white-oak-text": "<p>Here goes a big block of text.</p>"
       },
       "cookies": {
         "heading": "This site uses cookies",
