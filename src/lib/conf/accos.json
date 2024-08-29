@@ -561,6 +561,16 @@
                 }
               }
             }
+          },
+          {
+            "id": "absent-rum-cherry",
+            "kind": "text",
+            "content": {
+              "ref": "orthodox-mossycup-white-oak-text",
+              "headerFontSize": "1.5rem",
+              "textFontSize": "1rem",
+              "minHeight": "50rem"
+            }
           }
         ]
       },
